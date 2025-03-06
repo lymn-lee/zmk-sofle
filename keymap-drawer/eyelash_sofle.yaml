@@ -55,9 +55,9 @@ layers:
   - $$mdi:volume-off$$
   - layer1
   - '2'
-  - COPY
-  - PASTE
-  - CUT
+  - Ctl+C
+  - Ctl+V
+  - Ctl+X
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-command$$
