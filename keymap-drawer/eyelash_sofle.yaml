@@ -25,7 +25,7 @@ layers:
   - I
   - O
   - P
-  - {t: \, s: '|'}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-shift$$
   - A
   - S
@@ -51,7 +51,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '-', s: _}
   - $$mdi:volume-off$$
   - layer1
   - $$mdi:apple-keyboard-option$$
@@ -61,9 +61,9 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - RIGHT GUI
   - $$mdi:keyboard-space$$
-  - {t: '-', s: _}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
+  - {t: \, s: '|'}
   layer1:
   - {t: '`', s: '~'}
   - F1
