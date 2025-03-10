@@ -53,13 +53,13 @@ layers:
   - {t: /, s: '?'}
   - {t: '-', s: _}
   - $$mdi:volume-off$$
-  - layer1
+  - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - Ctl+C
   - Ctl+V
   - Ctl+X
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - RIGHT GUI
+  - layer1
   - $$mdi:keyboard-space$$
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
@@ -118,13 +118,13 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - OUT USB
   - OUT BLE
   - $$mdi:bluetooth-off$$
   - BT CLR ALL
   - $$mdi:mouse-left-click-outline$$
-  - +
+  - {t: +, type: held}
   - KP EQUAL
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
