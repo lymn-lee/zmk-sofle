@@ -85,11 +85,11 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - PG UP
-  - END
-  - {t: '$$mdi:transfer$$', type: trans}
+  - PRINTSCREEN
   - HOME
-  - {t: '$$mdi:transfer$$', type: trans}
+  - END
+  - Ins
+  - $$mdi:backspace-reverse-outline$$
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -98,8 +98,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - '&mkp MB5'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
-  - PG DN
-  - {t: '$$mdi:transfer$$', type: trans}
+  - PgUp
+  - PgDn
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
