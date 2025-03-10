@@ -125,7 +125,7 @@ layers:
   - BT CLR ALL
   - $$mdi:mouse-left-click-outline$$
   - {t: +, type: held}
-  - KP EQUAL
+  - {t: '=', s: +}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
