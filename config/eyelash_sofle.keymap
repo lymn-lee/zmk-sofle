@@ -56,7 +56,7 @@
         layer_1 {
             bindings = <
 &kp GRAVE   &kp F1      &kp F2        &kp F3        &kp F4         &kp F5            &mmv MOVE_UP     &kp F6           &kp F7       &kp F8    &kp F9         &kp F10     &kp F11
-&trans      &kp K_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_BRI_DEC  &kp C_BRI_UP      &mmv MOVE_DOWN   &kp PRINTSCREEN  &kp HOME     &kp END   &kp INSERT     &kp DELETE  &kp F12
+&trans      &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_BRI_DEC  &kp C_BRI_UP      &mmv MOVE_DOWN   &kp PRINTSCREEN  &kp HOME     &kp END   &kp INSERT     &kp DELETE  &kp F12
 &trans      &trans      &trans        &trans        &trans         &trans            &mmv MOVE_LEFT   &trans           &trans       &trans    &trans         &trans      &trans
 &trans      &trans      &trans        &trans        &trans         &trans            &mmv MOVE_RIGHT  &kp EQUAL        &kp PAGE_UP  &kp UP    &kp PAGE_DOWN  &trans      &trans
 &kp C_MUTE  &trans      &out OUT_USB  &out OUT_BLE  &bt BT_CLR     &bt BT_CLR_ALL    &mkp LCLK        &trans           &kp MINUS    &kp LEFT  &kp DOWN       &kp RIGHT
